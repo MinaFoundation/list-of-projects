@@ -1,5 +1,19 @@
 # NFT
 
+## CPoNe
+
+**Last Update Date of the Project:** 03.08.2023
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** Cryptographic Proof of NFT Endorsement
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/racampos/cpone
+
 ## Mina NFT
 
 **Last Update Date of the Project:** 01.12.2023

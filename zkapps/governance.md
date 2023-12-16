@@ -1,4 +1,18 @@
-# Governance
+# Governance and Voting
+
+## Anon-Ballots
+
+**Last Update Date of the Project:** 19.11.2023
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** Anonymous ballot Protokit zkApp proof of concept.
+
+**Scope:** Personal
+
+**Related URLs:** 
+
+- https://github.com/teddyjfpender/anon-ballots
 
 ## Bandwagon
 
@@ -27,6 +41,20 @@
 **Related URLs:** 
 
 - https://github.com/madztheo/zk-voting-web-app
+
+## Minanite
+
+**Last Update Date of the Project:** 07.12.2022
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** Tool for verified, anonymous voting on Mina chain.
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/sausage-dog/minanite
 
 ## Mina Navigators Voting Demo
 
@@ -89,3 +117,17 @@
 - https://github.com/aerius-labs/zk-snap-frontend
 
 - https://github.com/aerius-labs/zk-voting-poc
+
+## ZK Vote
+
+**Last Update Date of the Project:** 29.11.2022
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** ZK anonymous voting application.
+
+**Scope:** Builders Program
+
+**Related URLs:** 
+
+- https://github.com/yunus433/zkvote

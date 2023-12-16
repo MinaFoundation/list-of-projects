@@ -162,6 +162,20 @@ This page is to list any zkApps that do not fit in any other category. Please do
 
 - https://github.com/45930/svelte-snapp-template
 
+## Shadow
+
+**Last Update Date of the Project:** 14.04.2022
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** Private Account System On Mina.
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/plus3-labs/shadow
+
 ## Todolist
 
 **Last Update Date of the Project:** 05.05.2022

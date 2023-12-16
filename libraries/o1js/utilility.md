@@ -1,4 +1,20 @@
-# o1js Utility Functions
+# o1js Composite Types, Utility Functions, and Libraries
+
+Please note that some of the types, functions, and libraries here may be deprecated. Double check before using it inside your project.
+
+## Auxo Types
+
+**Last Update Date of the Project:** 17.11.2023
+
+**Last Update Date of the Record:** 10.12.2023
+
+**Short Description:** Exported types from the [Auxo ZK](./../../zkapps/funding.md#auxo-zk) zkApp, including Bit255, CustomScalar, DynamicArray, and IPFSHash.
+
+**Scope:** Personal
+
+**Related URLs:** 
+
+- https://github.com/auxo-zk/auxo-libs
 
 ## Distributed Key Generation
 
@@ -14,6 +30,20 @@
 
 - https://github.com/auxo-zk/Distributed-key-generation/
 
+## Mina Signer Net
+
+**Last Update Date of the Project:** 16.12.2023
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** SDK to sign message for Mina with dotnet framework.
+
+**Scope:** Personal
+
+**Related URLs:** 
+
+- https://github.com/youtpout/MinaSignerNet
+
 ## o1js Groth16
 
 **Last Update Date of the Project:** 07.12.2023
@@ -28,6 +58,64 @@
 
 - https://github.com/onurinanc/o1js-groth16
 
+## o1js Math
+
+**Last Update Date of the Project:** 16.12.2023
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** o1js math library with negative / positive floating point number and high level mathematical operation support (arithmetic, exponential, logarithmique, trigonometric, hyperbolic, etc.).
+
+**Scope:** Flash Grants
+
+**Related URLs:** 
+
+- https://github.com/yunus433/o1js-math
+
+## o1js Merkle
+
+**Last Update Date of the Project:** 11.12.2023
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** Merkle Tree for o1js (membership / non-membership merkle witness) with Pluggable Storage.
+
+**Scope:** Mina Navigators
+
+**Related URLs:** 
+
+- https://github.com/plus3-labs/o1js-merkle/
+
+## o1js Pack
+
+**Last Update Date of the Project:** 18.11.2023
+
+**Last Update Date of the Record:** 10.12.2023
+
+**Short Description:** Packing of data inside single Field
+
+**Scope:** Personal
+
+**Related URLs:** 
+
+- https://github.com/45930/o1js-pack
+
+- https://github.com/45930/snarkyjs-pack-examples
+
+## o1js TrGraph
+
+**Last Update Date of the Project:** 16.12.2023
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** o1js transformation graph.
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/zcred-org/o1js-trgraph
+
 ## Recursive Length Prefix
 
 **Last Update Date of the Project:** 18.09.2023
@@ -41,6 +129,34 @@
 **Related URLs:** 
 
 - https://github.com/aerius-labs/rlp-snarkyjs
+
+## Reinforced Concrete Implementations
+
+**Last Update Date of the Project:** 15.11.2023
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** Various implementations of the RC hash function
+
+**Scope:** Personal
+
+**Related URLs:** 
+
+- https://github.com/rymnc/reinforced-concrete-impls
+
+## SHA256
+
+**Last Update Date of the Project:** 14.10.2022
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** Proof of Concept o1js SHA256.
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/sCrypt-Inc/snarkyjs-sha256
 
 ## Threshold DKG
 

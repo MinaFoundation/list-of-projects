@@ -42,6 +42,8 @@
 
 - https://github.com/0xtito/hot-n-cold
 
+- https://github.com/racampos/hotncold-threejs
+
 ## Mina Arena
 
 **Last Update Date of the Project:** 05.08.2023
@@ -62,13 +64,41 @@
 
 **Last Update Date of the Record:** 10.12.2023
 
-**Short Description:** Poker on Mina.
+**Short Description:** ZK poker on Mina.
 
 **Scope:** Unknown
 
 **Related URLs:** 
 
 - https://github.com/MinaPoker
+
+## Mina Wordle
+
+**Last Update Date of the Project:** 29.11.2023
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** ZK Wordle on Mina.
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/sCrypt-Inc/mina-wordle
+
+## Motomon
+
+**Last Update Date of the Project:** 17.10.2023
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** Modular autonomous world game built with a zkVM from Protokit and zkOracles.
+
+**Scope:** Personal
+
+**Related URLs:** 
+
+- https://github.com/teddyjfpender/motomon
 
 ## Prove My Turn
 
@@ -83,3 +113,45 @@
 **Related URLs:** 
 
 - https://github.com/mirceanis/prove-my-turn
+
+## RepeatingLife
+
+**Last Update Date of the Project:** 15.10.2023
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** Play on [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+
+**Scope:** Personal
+
+**Related URLs:** 
+
+- https://github.com/Raunaque97/RepeatingLifeZK
+
+## Tictacsign
+
+**Last Update Date of the Project:** 16.12.2023
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** Updated version of template Tictactoe to create smart contracts that need only signatures of 2 players to validate the game and generate a wintoken.
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/youtpout/zkapp-ui
+
+## ZK Chess
+
+**Last Update Date of the Project:** 30.11.2023
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** Example ZK chess on Mina.
+
+**Scope:** Personal
+
+**Related URLs:** 
+
+- https://github.com/rudrakpatra/zkchess

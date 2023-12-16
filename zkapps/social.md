@@ -1,4 +1,4 @@
-# Social Media zkApps
+# Social Networks
 
 ## Mogart Network
 

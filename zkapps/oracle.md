@@ -1,4 +1,4 @@
-# Oracle zkApps
+# Oracles
 
 Please note that some of these oracles may be partially centralized / trusted. Please make sure they fit your needs before using.
 
@@ -86,6 +86,20 @@ Please note that some of these oracles may be partially centralized / trusted. P
 
 - https://github.com/45930/mina-rng
 
+## zkDon
+
+**Last Update Date of the Project:** 03.11.2023
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** Proof of Concept for a ZK Decentralized Oracle Network.
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/redhair/zkDON
+
 ## zkAppPool 
 
 **Last Update Date of the Project:** 10.04.2023
@@ -113,3 +127,17 @@ Please note that some of these oracles may be partially centralized / trusted. P
 **Related URLs:** 
 
 - https://github.com/id-Mask/zk-Oracle
+
+## zkOracle and Off-chain operator
+
+**Last Update Date of the Project:** 30.11.2023
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** ZK oracle on intensive models based on Erc677 (transferAndCall) on Mina Protocol.
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/ubinix-warun/zkOracle-OCO

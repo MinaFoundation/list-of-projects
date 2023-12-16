@@ -1,4 +1,4 @@
-# Exchange (DEX)
+# Exchanges (DEX)
 
 ## Kaupang
 

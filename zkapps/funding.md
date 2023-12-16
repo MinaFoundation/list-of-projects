@@ -1,4 +1,4 @@
-# Funding
+# Funding Platforms
 
 This file contains on chain funding related zkApps.
 

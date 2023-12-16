@@ -28,6 +28,8 @@
 
 - https://github.com/proto-kit
 
+- https://github.com/Raunaque97/protokit-auction-runtimes
+
 ## Zeko
 
 **Last Update Date of the Project:** -

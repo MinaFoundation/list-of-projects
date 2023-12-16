@@ -44,6 +44,20 @@
 
 - https://github.com/aztemi/mina-wallet-standard
 
+## MultiSig Wallet
+
+**Last Update Date of the Project:** 21.09.2022
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** Example zkApp implementing a multisig wallet.
+
+**Scope:** Personal
+
+**Related URLs:** 
+
+- https://github.com/rpanic/zkapp-multisig-wallet
+
 ## Pallad
 
 **Last Update Date of the Project:** 12.10.2023
@@ -57,6 +71,20 @@
 **Related URLs:** 
 
 - https://github.com/palladians/pallad
+
+## Smart Contract Keyless Wallet
+
+**Last Update Date of the Project:** 24.04.2023
+
+**Last Update Date of the Record:** 16.12.2023
+
+**Short Description:** Smart contract keyless zkApp wallet using social recovery and SmartOTP's to allow users to restore access to their accounts without revealing any personal information.
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/WalletZkApp/zkapp-keyless-wallet
 
 ## ZK MultiSig Wallet
 
