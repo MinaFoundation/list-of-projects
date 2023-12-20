@@ -28,6 +28,20 @@
 
 - https://github.com/kaushikc44/Starter-kit-mina-auro-nextjs-13
 
+## Keyppi
+
+**Last Update Date of the Project:** 11.10.2022
+
+**Last Update Date of the Record:** 20.12.2023
+
+**Short Description:** ZK private key recovery platform.
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/dhernz/keyppi
+
 ## Mina Wallet Adapter
 
 **Last Update Date of the Project:** 10.12.2023
@@ -85,6 +99,20 @@
 **Related URLs:** 
 
 - https://github.com/WalletZkApp/zkapp-keyless-wallet
+
+## zkApp Multisign
+
+**Last Update Date of the Project:** 21.09.2022
+
+**Last Update Date of the Record:** 20.12.2023
+
+**Short Description:** Simple implementation of a multisignature wallet
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/gordonfreemanfree/zkapp-multisign
 
 ## ZK MultiSig Wallet
 

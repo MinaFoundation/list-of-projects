@@ -18,11 +18,13 @@ Please feel free to contribute to this repo by making a PR. Make sure you read [
 
 ### zkApps
 
+- [Bio Technology Related zkApps](/zkapps/biotech.md)
+
 - [MINA Coin and Other Coin Projects](/zkapps/coin.md)
 
 - [Credentials](/zkapps/credentials.md)
 
-- [Exchanges (DEX)](/zkapps/exchange.md)
+- [Exchanges (DEX) and Related Utilities](/zkapps/exchange.md)
 
 - [Funding Platforms](/zkapps/funding.md)
 
@@ -39,6 +41,8 @@ Please feel free to contribute to this repo by making a PR. Make sure you read [
 - [NFT](/zkapps/nft.md)
 
 - [Oracles](/zkapps/oracle.md)
+
+- [Privacy Focused zkApps](/zkapps/privacy.md)
 
 - [Social Networks](/zkapps/social.md)
 
@@ -59,6 +63,8 @@ Please feel free to contribute to this repo by making a PR. Make sure you read [
 - [ZK CLI Improvements and Utility Functions](/libraries/zkcli.md)
 
 #### o1js Framework related Contributions
+
+- [Bridges to Mina](/libraries/o1js/bridge.md)
 
 - [o1js Development Environments](/libraries/o1js/environment.md)
 

@@ -176,6 +176,20 @@ This page is to list any zkApps that do not fit in any other category. Please do
 
 - https://github.com/plus3-labs/shadow
 
+## Stir with JarOfPickles
+
+**Last Update Date of the Project:** 12.12.2021
+
+**Last Update Date of the Record:** 20.12.2023
+
+**Short Description:** Concept for coin tumbler on Mina.
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/Kirol54/minaBootcamp
+
 ## Todolist
 
 **Last Update Date of the Project:** 05.05.2022
@@ -190,6 +204,20 @@ This page is to list any zkApps that do not fit in any other category. Please do
 
 - https://github.com/45930/zk-todo
 
+## Vaultmi
+
+**Last Update Date of the Project:** 04.09.2022
+
+**Last Update Date of the Record:** 20.12.2023
+
+**Short Description:** File sharing zkApp with multiple owners through Mina protocol.
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/cryptoiner/Vaultmi
+
 ## Web Badminton
 
 **Last Update Date of the Project:** 15.11.2023
@@ -203,6 +231,20 @@ This page is to list any zkApps that do not fit in any other category. Please do
 **Related URLs:** 
 
 - https://github.com/BadmWe/WebBadminton
+
+## zkApp UI
+
+**Last Update Date of the Project:** 12.10.2023
+
+**Last Update Date of the Record:** 20.12.2023
+
+**Short Description:** Example UI on a Mina zkApp.
+
+**Scope:** Personal
+
+**Related URLs:** 
+
+- https://github.com/RaidasGrisk/zkapp-ui
 
 ## zkMile
 
@@ -219,3 +261,17 @@ This page is to list any zkApps that do not fit in any other category. Please do
 - https://github.com/enderNakamoto/zkMile
 
 - https://github.com/enderNakamoto/zkMile-contracts
+
+## ZK Book Review
+
+**Last Update Date of the Project:** 16.04.2023
+
+**Last Update Date of the Record:** 20.12.2023
+
+**Short Description:** ZK proof identity verification on e-books to prevent censorship.
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/kyok01/zkBookReview

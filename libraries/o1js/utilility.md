@@ -44,6 +44,20 @@ Please note that some of the types, functions, and libraries here may be depreca
 
 - https://github.com/youtpout/MinaSignerNet
 
+## Merkle Heap Priority Queue
+
+**Last Update Date of the Project:** 25.08.2023
+
+**Last Update Date of the Record:** 20.12.2023
+
+**Short Description:** Implementation of Merkle-Heap Priority Queue on o1js.
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/Nicolascoding27/Merkle-Heap-Priority-Queue
+
 ## o1js Groth16
 
 **Last Update Date of the Project:** 07.12.2023
@@ -157,6 +171,20 @@ Please note that some of the types, functions, and libraries here may be depreca
 **Related URLs:** 
 
 - https://github.com/sCrypt-Inc/snarkyjs-sha256
+
+## SnarkyJS Image
+
+**Last Update Date of the Project:** 15.04.2023
+
+**Last Update Date of the Record:** 20.12.2023
+
+**Short Description:** ZK image edit tooling.
+
+**Scope:** ETHGlobal Tokyo 2023
+
+**Related URLs:** 
+
+- https://github.com/socathie/snarkyjs-img/
 
 ## Threshold DKG
 

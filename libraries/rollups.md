@@ -14,6 +14,20 @@
 
 - https://github.com/anomix-zk/anomix-network
 
+## Mina ZK Rollup
+
+**Last Update Date of the Project:** 15.04.2023
+
+**Last Update Date of the Record:** 20.12.2023
+
+**Short Description:** Modular ZK rollup for ZK smart contracts and zkApps on the Mina blockchain.
+
+**Scope:** Personal
+
+**Related URLs:** 
+
+- https://github.com/Trivo25/mina-zk-rollup
+
 ## Protokit
 
 **Last Update Date of the Project:** 11.12.2023

@@ -72,6 +72,20 @@ Please note that some of these oracles may be partially centralized / trusted. P
 
 - https://github.com/kriss1897/mina-google-oracle
 
+## Mina Credit Score Signer
+
+**Last Update Date of the Project:** 15.04.2023
+
+**Last Update Date of the Record:** 20.12.2023
+
+**Short Description:** Sign over a price feed with a Mina compatible signature scheme.
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/Ferret-san/mina-feed-signer
+
 ## Mina RNG
 
 **Last Update Date of the Project:** 07.07.2023

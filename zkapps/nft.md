@@ -39,3 +39,17 @@
 - https://github.com/dfstio/minanft-lib
 
 - https://github.com/dfstio/minanft-lib-example
+
+## NFT zkApp
+
+**Last Update Date of the Project:** 05.01.2023
+
+**Last Update Date of the Record:** 20.12.2023
+
+**Short Description:** Simgle private NFT based on Mina zkApp.
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/comdex/nft-zkapp

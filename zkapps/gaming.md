@@ -1,5 +1,47 @@
 # Games on Mina
 
+## Blind Man's Bluff
+
+**Last Update Date of the Project:** 17.12.2021
+
+**Last Update Date of the Record:** 20.12.2023
+
+**Short Description:** Blind man's bluff (a.k.a Indian Poker) proof of concept implementation in o1js.
+
+**Scope:** Mina Bootcamp 2021
+
+**Related URLs:** 
+
+- https://github.com/wotomas/BlindMansBluff
+
+## BullsAndCows
+
+**Last Update Date of the Project:** 12.12.2021
+
+**Last Update Date of the Record:** 20.12.2023
+
+**Short Description:** Bulls and cows game implementation in o1js.
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/petemccarthy/bullscows
+
+## Checker Snapp
+
+**Last Update Date of the Project:** 28.04.2022
+
+**Last Update Date of the Record:** 20.12.2023
+
+**Short Description:** Checkers game built to demonstrate Mina zkApps Smart Contracts at work.
+
+**Scope:** Personal
+
+**Related URLs:** 
+
+- https://github.com/vimukthi-git/CheckerSnapp
+
 ## Forgotten Empires
 
 **Last Update Date of the Project:** 09.12.2023
@@ -127,6 +169,34 @@
 **Related URLs:** 
 
 - https://github.com/Raunaque97/RepeatingLifeZK
+
+## Snapp Hangman
+
+**Last Update Date of the Project:** 14.12.2021
+
+**Last Update Date of the Record:** 20.12.2023
+
+**Short Description:** ZK Hangman snapp game built in o1js.
+
+**Scope:** Unknown
+
+**Related URLs:** 
+
+- https://github.com/frisitano/snapp-hangman
+
+## Sudoku
+
+**Last Update Date of the Project:** 06.06.2022
+
+**Last Update Date of the Record:** 20.12.2023
+
+**Short Description:** Simple zero-knowledge Sudoku with o1js.
+
+**Scope:** Personal
+
+**Related URLs:** 
+
+- https://github.com/mitschabaude/snarkyjs-sudoku
 
 ## Tictacsign
 
