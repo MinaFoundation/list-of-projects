@@ -1,6 +1,6 @@
-# Awesome Mina
+# List of Projects on Mina and o1js 
 
-In this repository, you can find a list of zkApps and libraries related to Mina Blockchain that are developed by Mina Foundation, O(1) Labs, and community members.
+In this repository, you can find a list of zkApps and libraries related to Mina Protocol that are developed by Mina Foundation, O(1) Labs, and other ecosystem partners.
 
 Please note that a zkApp or library may be listed in multiple files if it falls into multiple categories.
 
@@ -8,9 +8,9 @@ Please feel free to contribute to this repo by making a PR. Make sure you read [
 
 ## Background Information
 
-[Mina Blockchain](https://minaprotocol.com/) is a _fully decentralized_ L1 with ZK (zero knowledge) programmability. It is a **constant sized** blockchain: The entire Mina state is 22 KBs.
+[Mina](https://minaprotocol.com/) is a layer-1 blockchain with a 22KB blockchain and ZK (zero knowledge) smart contracts (zkApps) written in [TypeScript](https://www.typescriptlang.org/).
 
-[zkApps](https://docs.minaprotocol.com/zkapps) are ZK applications deployed on the Mina Blockchain. They execute client side, and their state update is verified by blockchain validators through ZK proofs. Mina zkApps support [private inputs](https://docs.minaprotocol.com/zkapps/o1js/smart-contracts#public-and-private-inputs) (inputs that are not seen by the blockchain, but still used inside smart contract methods), [recursion](https://docs.minaprotocol.com/zkapps/o1js/recursion) inside ZK proofs, and many other features to allow building very strong decentralized applications on Mina.
+[zkApps](https://docs.minaprotocol.com/zkapps) are ZK applications deployed on the Mina Protocol. They execute off chain, and their state update is verified by blockchain validators through ZK proofs. Mina zkApps support [private inputs](https://docs.minaprotocol.com/zkapps/o1js/smart-contracts#public-and-private-inputs) (inputs that are not seen by the blockchain, but still used inside smart contract methods), [recursion](https://docs.minaprotocol.com/zkapps/o1js/recursion) inside ZK proofs, and many other features to allow building very strong decentralized applications on Mina.
 
 [o1js](https://www.npmjs.com/package/o1js) is a Typescript framework allowing ZK developers to create zkApps. It includes provable built in types and methods to create ZK proofs inside a browser. The compiled ZK proofs can be verified both on and off chain.
 
@@ -54,7 +54,7 @@ Please feel free to contribute to this repo by making a PR. Make sure you read [
 
 - [Miscellaneous (Other)](zkapps/miscellaneous.md)
 
-### o1js and Mina Contributions
+### o1js and Mina Blockchain Contributions
 
 - [Mina Community Benefit Platforms](/libraries/platforms.md)
 
