@@ -1,4 +1,4 @@
-# List of Projects on Mina and o1js 
+# List of Projects on Mina and o1js
 
 In this repository, you can find a list of zkApps and libraries related to Mina Protocol that are developed by Mina Foundation, O(1) Labs, and other ecosystem partners.
 
@@ -41,8 +41,6 @@ Please feel free to contribute to this repo by making a PR. Make sure you read [
 - [NFT](/zkapps/nft.md)
 
 - [Oracles](/zkapps/oracle.md)
-
-- [Privacy Focused zkApps](/zkapps/privacy.md)
 
 - [Social Networks](/zkapps/social.md)
 
