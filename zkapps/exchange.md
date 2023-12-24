@@ -1,19 +1,5 @@
 # Exchanges (DEX) and Related Utilities
 
-## DexEqualizer
-
-**Last Update Date of the Project:** 04.04.2023
-
-**Last Update Date of the Record:** 20.12.2023
-
-**Short Description:** Arbitrage bot for the Uniswap V2 clones in Binance Smart Chain.
-
-**Scope:** Unknown
-
-**Related URLs:** 
-
-- https://github.com/tarik0/DexEqualizer
-
 ## Kaupang
 
 **Last Update Date of the Project:** 18.11.2023
