@@ -1,5 +1,21 @@
 # Games on Mina
 
+## ZkNoid
+
+**Last Update Date of the Project:** 28.12.2023
+
+**Last Update Date of the Record:** 28.12.2023
+
+**Short Description:** Proofable arkanoid game implementation using protokit and zk gaming platform
+
+**Scope:** Mina Navigators
+
+**Related URLs:** 
+
+- https://github.com/ZkNoid
+- https://zknoid.io
+- https://docs.zknoid.io
+
 ## Blind Man's Bluff
 
 **Last Update Date of the Project:** 17.12.2021
