@@ -92,7 +92,7 @@
 
 **Short Description:** ZK attestation protocol.
 
-**Scope:** zkIgnite Cohort 2
+**Scope:** Mina Navigators
 
 **Related URLs:** 
 
